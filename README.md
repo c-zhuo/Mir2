@@ -16,6 +16,10 @@
 
 - 代码还没放出来，图片资源几百兆，传上来太难了，我想想办法，看看能不能随便找几个图替代；
 
-- 为什么服务端用Node？因为主要是试试Canvas动画的效能和扩展性，服务端用Node的话还可以复用一部分js逻辑；
+- 为什么服务端用Node？因为主要是试试Canvas动画的性能和扩展性，服务端用Node的话还可以复用一部分js逻辑；
 
 - 因为从网上找的素材都是一张大图里几十个小元素，所以切图用脚本切的。脚本写的糙，所以人物可能有毛边，不是渲染问题；
+
+### 架构
+
+![https://github.com/chenzhuo1992/Mir2/blob/master/README.png](https://github.com/chenzhuo1992/Mir2/blob/master/README.gif?raw=true)
