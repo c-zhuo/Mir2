@@ -22,4 +22,4 @@
 
 ### 架构
 
-![https://github.com/chenzhuo1992/Mir2/blob/master/README.png](https://github.com/chenzhuo1992/Mir2/blob/master/README.gif?raw=true)
+![https://github.com/chenzhuo1992/Mir2/blob/master/README.png](https://github.com/chenzhuo1992/Mir2/blob/master/README.png?raw=true)
