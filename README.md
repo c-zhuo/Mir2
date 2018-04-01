@@ -4,9 +4,13 @@
 
 ### 介绍
 
-复刻2001年的Mir2，客户端使用Javascript+Canvas，基础库和Chrome调试插件使用[Easycanvas](https://github.com/chenzhuo1992/easycanvas)，服务端使用Node.
+复刻2001年的Mir2，客户端使用Javascript+Canvas。
 
-线上地址：[这里](http://122.114.162.204/login.html)，服务器比较低配、部分类型检查没有完成，所以请高抬贵手，不要试图寻找bug……
+线上地址：[这里](http://122.114.162.204/login.html)（地图文件没传上去，太大了，有空再搞）。
+
+作者QQ：272643575，基础库[Easycanvas](https://github.com/chenzhuo1992/easycanvas)，服务端使用Node.
+
+服务器比较低配、部分类型检查没有完成，所以请高抬贵手，不要试图寻找bug……
 
 素材源自盛大《热血传奇》等游戏、m6m等游戏素材网，只供学习使用。
 

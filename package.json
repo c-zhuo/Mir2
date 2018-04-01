@@ -1,0 +1,43 @@
+{
+  "name": "labrador-cli",
+  "version": "0.3.3",
+  "description": "拉布拉多命令工具，微信小程序模块化开发框架",
+  "keywords": [
+    "labrador",
+    "wxa",
+    "wxapp",
+    "weixin",
+    "wechat"
+  ],
+  "main": "index.js",
+  "bin": {
+    "labrador": "bin/labrador"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/labrador-cli.git"
+  },
+  "author": {
+    "email": "liang@maichong.it",
+    "name": "liang",
+    "url": "https://github.com/liangxingchen"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/labrador-cli/issues"
+  },
+  "homepage": "https://github.com/maichong/labrador-cli#readme",
+  "dependencies": {
+    "chokidar": "^1.6.0",
+    "co": "^4.6.0",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "easycanvas": "^0.2.6-test.1",
+    "less": "^2.7.1",
+    "mkdirp": "^0.5.1",
+    "shelljs": "^0.7.4",
+    "update-notifier": "^1.0.2",
+    "xmldom": "^0.1.22"
+  }
+}
