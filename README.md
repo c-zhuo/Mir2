@@ -6,7 +6,7 @@
 
 复刻2001年的Mir2，客户端使用Javascript+Canvas。
 
-线上地址：[这里](http://122.114.162.204/login.html)（地图文件没传上去，太大了，有空再搞）。
+线上地址：[这里](http://122.114.162.204/login.html)。
 
 作者QQ：272643575，基础库[Easycanvas](https://github.com/chenzhuo1992/easycanvas)，服务端使用Node.
 
